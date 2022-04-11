@@ -1,5 +1,5 @@
-# Simulador de dado
-# Simular o uso de um dado, gerando um valor aleatório entre os numeros 1 até 6
+# Simulador de números de um dado
+# Simular o uso de um dado, gerando um valor aleatório entre os numeros 1 até 7
 import random
 import PySimpleGUI as sg
 
